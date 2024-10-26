@@ -11,13 +11,13 @@
 - Team Lead: Aiswarya Shine - SSET Karukutty
 
 ### Project Description
-GOI is a whimsical app that exists purely for the sake of existing. It offers hilariously random, spiritually funny advice based on your selected pain level, with no real goal other than to entertain. With a simple interface, you can input your mood, and the app will serve up quirky nuggets of wisdom and memes that make you question everything. It’s perfect for those moments when you just need a laugh or a reminder that sometimes, things don’t need to make sense—they just are!
+GOI is an app made to make your headache worse—or create one if you don’t have it! It exists to frustrate its users. With its silly interface, just enter your mood and get ready for a stream of funny, random advice that will leave you confused.
 
 ### The Problem (that doesn't exist)
-GOI tackles the utterly absurd challenge of finding humor in life's mundane miseries. It offers a solution to the "seriousness" of daily struggles by providing hilariously offbeat advice when you least expect it. Whether you're overwhelmed by minor inconveniences or simply bored, this app delivers a dose of laughable wisdom that reminds you that life doesn’t always need a purpose—it can just be delightfully silly!
+An appilication dedicated to increasing your headache—or creating one if you don’t have it!
 
 ### The Solution (that nobody asked for)
-GOI tackles life’s silly dilemmas by serving up absurd advice and hilarious memes based on your selected "pain level." Just choose how you’re feeling, and the app delivers a dose of laughter and quirky wisdom. It’s like having a goofy friend in your pocket, reminding you that laughter is the best way to cope with life’s little chaos!
+Creating a Flutter app dedicated to increasing headaches and frustration with pointless features. It does absolutely nothing useful and responds only with sarcastic advice and replies!
 
 ## Technical Details
 ### Technologies/Components Used
