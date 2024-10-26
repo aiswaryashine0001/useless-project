@@ -78,6 +78,7 @@ This page displays the selected pain level along with a random piece of humorous
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
+![LOGO](https://github.com/user-attachments/assets/34b4ef90-ac75-4111-9d77-d769c8bc457c)
 
 
 ---
