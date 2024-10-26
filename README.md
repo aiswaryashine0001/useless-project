@@ -75,10 +75,11 @@ This page asks for the pain level. The pain levels available are "Mild," "Modera
 ![Screenshot3](./screenshots/screenshot3.png)  
 This page displays the selected pain level along with a random piece of humorous advice and a corresponding meme. This page aims to lighten the user's mood with funny suggestions related to their reported pain level, creating a more engaging and enjoyable interaction with the app.
 
+
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-![LOGO]=> https://ibb.co/XZgNB5r
+<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/f6ff7e78-7d1f-43b1-91f3-146d5fa7100d">
 
 Made with ❤️ at TinkerHub Useless Projects 
 
