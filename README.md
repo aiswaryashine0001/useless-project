@@ -66,13 +66,13 @@ flutter run
 #### Screenshots
 ## Screenshots
 
-![Screenshot1](./screenshots/screenshot1.png)  
+<img width="1280" alt="IMAGE" src="https://github.com/user-attachments/assets/dbcf7b65-d902-4c22-bb4f-ea0860c6515f">
 This page asks a question: "Do you have a headache?" As an answer, you can click the "Yes" button, which has a bouncing animation.
 
-![Screenshot2](./screenshots/screenshot2.png)  
+ <img width="1280" alt="IMAGE" src="(https://github.com/user-attachments/assets/873f9ad0-75f8-4db7-8205-5d72865de69f">
 This page asks for the pain level. The pain levels available are "Mild," "Moderate," and "Severe." Upon selecting a pain level, a humorous comment is displayed in a dialog box, adding a playful touch to the user's experience.
 
-![Screenshot3](./screenshots/screenshot3.png)  
+<img width="1280" alt="IMAGE" src="https://github.com/user-attachments/assets/97c8f960-19f7-40d5-9fe6-f1aa7a1e74a5"> 
 This page displays the selected pain level along with a random piece of humorous advice and a corresponding meme. This page aims to lighten the user's mood with funny suggestions related to their reported pain level, creating a more engaging and enjoyable interaction with the app.
 
 
