@@ -45,7 +45,7 @@ For Software:
 #### Installation
 To install the GOI app, follow these commands:
 
-```bash
+
 # Clone the repository
 git https://github.com/aiswaryashine0001/useless-project.git
 
@@ -79,8 +79,10 @@ This page displays the selected pain level along with a random piece of humorous
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-<img width="1280" alt="IMAGE" src="https://github.com/user-attachments/assets/f6ff7e78-7d1f-43b1-91f3-146d5fa7100d">
 
+
+
+<img width="1280" alt="IMAGE" src="https://github.com/user-attachments/assets/f6ff7e78-7d1f-43b1-91f3-146d5fa7100d">
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
