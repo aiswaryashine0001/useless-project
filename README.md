@@ -70,12 +70,15 @@ flutter run
 <br/>
 <br/>
 This page asks a question: "Do you have a headache?" As an answer, you can click the "Yes" button, which has a bouncing animation.
+ <br/>
+<br/>
 
  <img height="400" alt="IMAGE" src="https://github.com/user-attachments/assets/873f9ad0-75f8-4db7-8205-5d72865de69f">
  <br/>
 <br/>
 This page asks for the pain level. The pain levels available are "Mild," "Moderate," and "Severe." Upon selecting a pain level, a humorous comment is displayed in a dialog box, adding a playful touch to the user's experience.
-
+ <br/>
+<br/>
 <img  height="400" alt="IMAGE" src="https://github.com/user-attachments/assets/97c8f960-19f7-40d5-9fe6-f1aa7a1e74a5"> 
 <br/>
 <br/>
