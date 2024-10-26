@@ -77,8 +77,8 @@ This page displays the selected pain level along with a random piece of humorous
 
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow]
+The workflow of the application begins with the user being asked, "Do you have a headache?" Upon clicking the animated "Yes" button, they are directed to a page where they can select their pain level from options like "Mild," "Moderate," and "Severe." After choosing a level, a humorous comment appears in a dialog box, adding a playful touch. Finally, the user is taken to the final advice page, which displays their selected pain level along with random funny advice and a meme, creating a light-hearted and engaging experience throughout the app.
 
 
 
